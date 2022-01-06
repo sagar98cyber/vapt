@@ -19,3 +19,8 @@ Pwd: Present working directory
 
 ## 'ls -al' to look for the hidden folders
   
+## 'cp' copy command
+  > to copy file from one location to another: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/copy-command.PNG)
+    
+## 'mv' move command
+  > to move a file or a folder from one folder to another: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/copy-command.PNG)
