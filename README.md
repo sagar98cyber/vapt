@@ -23,4 +23,8 @@ Pwd: Present working directory
   > to copy file from one location to another: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/copy-command.PNG)
     
 ## 'mv' move command
-  > to move a file or a folder from one folder to another: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/copy-command.PNG)
+  > to move a file or a folder from one folder to another: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/move-command.PNG)
+
+## 'rm' to remove a specific file
+
+## 'updatedb' to update the database for searching a file or for 'locate' command to look for a file
