@@ -1,6 +1,0 @@
-If you are in Root Folder and want to access some other folder outside the root folder:
-Use the ‘/’ as a prefix
-
-Example:
-ls /etc/
-cd /etc/
