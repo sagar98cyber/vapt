@@ -28,3 +28,7 @@ Pwd: Present working directory
 ## 'rm' to remove a specific file
 
 ## 'updatedb' to update the database for searching a file or for 'locate' command to look for a file
+  > if looking for a file and the file doesnot appear updatedb to update database: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/updatedb-command.PNG)
+
+## 'locate' command to look for a file in database
+  > to look for a file in database: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/locate.PNG)
