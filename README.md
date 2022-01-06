@@ -12,5 +12,5 @@ Pwd: Present working directory
 ## chmod-commands
   > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/tree/chmod-branch)
 
-## '~' -operator(tilde-operator)
-  > to enter the root folder from any pwd: [CLick Here](https://github.com/sagar98cyber/vapt/tree/chmod-branch)
+## '~' -operator(tilde-operator or ROOT LOCATION Operator)
+  > to enter the root folder from any pwd: [CLick Here](https://github.com/sagar98cyber/vapt/tree/tilde-operator)
