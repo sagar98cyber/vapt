@@ -10,4 +10,4 @@ Pwd: Present working directory
   > want to access some other folder outside the current folder: [CLick Here](https://github.com/sagar98cyber/vapt/tree/slash-command)
 
 ## chmod-commands
-  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/tree/slash-command)
+  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/tree/chmod-branch)
