@@ -49,7 +49,7 @@ Pwd: Present working directory
 > 'su john' to switch to user john present on the system
 
 ### 'sudo passwd root'
-> to change of the password of the user present on the system 
+> to change of the password of the user present on the system <br>
 >Note: The command only works if you have sudoers access to the user, if not use 'sudo su' to get the sudoers access
 
 ### ifconfig
@@ -69,5 +69,5 @@ Pwd: Present working directory
 
 ## NOTES:
 ### TTL - TIME TO LIVE
->TTL for windows is 128 
->TTL for Linux is 64
+>TTL for windows is 128 <br>
+* >TTL for Linux is 64
