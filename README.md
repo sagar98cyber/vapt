@@ -35,3 +35,20 @@ Pwd: Present working directory
 
 ### how to identify if the entry in 'ls -al' is a file or a directory
 > if it shows 'd' as a prefix of a file then it is a directory if it displays a '-' then it is a file: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
+
+### 'adduser' to create a new user
+> to create a new user use "adduser <user-name>": [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
+
+### 'cat /etc/psswd'
+> 'cat /etc/psswd' to view every user present on the system: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
+
+### 'cat /etc/shadow'
+> 'cat /etc/shadow' to access password of every user present on the system. Using any tool like HASHCAT to break the password: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
+
+### su <user-name>
+> 'su john' to switch to user john present on the system: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
+
+### 'sudo passwd root'
+> to change of the password of the user present on the system 
+>Note: The command only works if you have sudoers access to the user, if not use 'sudo su' to get the sudoers access
+>: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
