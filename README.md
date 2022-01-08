@@ -67,8 +67,23 @@ Pwd: Present working directory
 ### route
 > this commands shows the routing table on the device
 
-### FILE COMMANDS
-> [Click Here](https://github.com/sagar98cyber/vapt/blob/file-commands/FILE%20COMMANDS.png)
+## FILE COMMANDS
+> [Click Here](https://github.com/sagar98cyber/vapt/blob/file-commands/FILE%20COMMANDS.png) <br>
+
+### echo "<message-here>" > <filename>
+>To write message into a file
+
+### echo "<message-here>" >> <filename>
+>To append message into a file
+
+### touch <filename>
+>To create a new file
+
+### nano <filename>
+>To create a new file and open it in a Nano Editor
+
+### gedit <filename>
+>To create a new file and open it in a Gedit Editor 
 
 ## NOTES:
 ### TTL - TIME TO LIVE
