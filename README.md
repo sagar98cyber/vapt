@@ -70,4 +70,4 @@ Pwd: Present working directory
 ## NOTES:
 ### TTL - TIME TO LIVE
 >TTL for windows is 128 <br>
-* >TTL for Linux is 64
+>TTL for Linux is 64
