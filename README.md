@@ -34,4 +34,4 @@ Pwd: Present working directory
   > to look for a file in database: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/locate.PNG)
 
 ### how to identify if the entry in 'ls -al' is a file or a directory
-> if it shows 'd' as a prefix of a file then it is a directory if it displays a '-' then it is a file: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/locate.PNG)
+> if it shows 'd' as a prefix of a file then it is a directory if it displays a '-' then it is a file: [CLick Here](https://github.com/sagar98cyber/vapt/blob/directory-file-identification/directory%20and%20file%20diff.png)
