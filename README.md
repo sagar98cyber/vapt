@@ -32,3 +32,6 @@ Pwd: Present working directory
 
 ### 'locate' command to look for a file in database
   > to look for a file in database: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/locate.PNG)
+
+### 'locate' command to look for a file in database
+> to look for a file in database: [CLick Here](https://github.com/sagar98cyber/vapt/blob/main/locate.PNG)
