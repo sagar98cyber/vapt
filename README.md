@@ -67,7 +67,10 @@ Pwd: Present working directory
 ### route
 > this commands shows the routing table on the device
 
+### FILE COMMANDS
+> [Click Here](https://github.com/sagar98cyber/vapt/blob/file-commands/FILE%20COMMANDS.png)
+
 ## NOTES:
 ### TTL - TIME TO LIVE
 >TTL for windows is 128 <br>
-* >TTL for Linux is 64
+>TTL for Linux is 64
