@@ -45,7 +45,7 @@ Pwd: Present working directory
 ### 'cat /etc/shadow'
 > 'cat /etc/shadow' to access password of every user present on the system. Using any tool like HASHCAT to break the password.
 
-### su <user-name>
+### su < user-name >
 > 'su john' to switch to user john present on the system
 
 ### 'sudo passwd root'
@@ -70,19 +70,19 @@ Pwd: Present working directory
 ## FILE COMMANDS
 > [Click Here](https://github.com/sagar98cyber/vapt/blob/file-commands/FILE%20COMMANDS.png) <br>
 
-### echo "<message-here>" > <filename>
+### echo "< message-here >" > < filename >
 >To write message into a file
 
-### echo "<message-here>" >> <filename>
+### echo "< message-here >" >> < filename >
 >To append message into a file
 
-### touch <filename>
+### touch < filename >
 >To create a new file
 
-### nano <filename>
+### nano < filename >
 >To create a new file and open it in a Nano Editor
 
-### gedit <filename>
+### gedit < filename >
 >To create a new file and open it in a Gedit Editor 
 
 ## NOTES:
