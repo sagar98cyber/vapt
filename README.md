@@ -51,3 +51,23 @@ Pwd: Present working directory
 ### 'sudo passwd root'
 > to change of the password of the user present on the system 
 >Note: The command only works if you have sudoers access to the user, if not use 'sudo su' to get the sudoers access
+
+### ifconfig
+> this command tells you the network configuration of the network for the ethernet
+
+### iwconfig
+> this command tells you the network configuration of the network for the wireless adapter
+
+### arp -a
+> this commands shows IP ADDRESS it talks to and the corresponding MAC ADDRESS
+
+### netstat -ano
+> this commands shows active connections running on the machine
+
+### route
+> this commands shows the routing table on the device
+
+## NOTES:
+### TTL - TIME TO LIVE
+>TTL for windows is 128 
+>TTL for Linux is 64
