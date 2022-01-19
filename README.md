@@ -91,6 +91,12 @@ Pwd: Present working directory
 ### service < service-name > stop
 >To stop a service (APACHE, FTP, etc) 
 
+### systemctl enable < service-name > 
+>To start a service on boot (APACHE, FTP, etc) 
+
+### systemctl disable < service-name > 
+>To stop a service on boot (APACHE, FTP, etc)
+
 ## NOTES:
 ### TTL - TIME TO LIVE
 >TTL for windows is 128 <br>
