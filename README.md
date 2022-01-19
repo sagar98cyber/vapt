@@ -10,7 +10,7 @@ Pwd: Present working directory
   > want to go to the top most folder(node) from anywhere in the pwd: [CLick Here](https://github.com/sagar98cyber/vapt/tree/slash-command)
 
 ### chmod-commands
-  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/tree/chmod-branch)
+  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/blob/chmod-branch/chmod.PNG)
 
 ### '../' operator to go one folder above the current pwd
 
