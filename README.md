@@ -10,7 +10,7 @@ Pwd: Present working directory
   > want to go to the top most folder(node) from anywhere in the pwd: [CLick Here](https://github.com/sagar98cyber/vapt/tree/slash-command)
 
 ### chmod-commands
-  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/tree/chmod-branch)
+  > to change the permissions of a file or a directory: [CLick Here](https://github.com/sagar98cyber/vapt/blob/chmod-branch/chmod.PNG)
 
 ### '../' operator to go one folder above the current pwd
 
@@ -90,6 +90,12 @@ Pwd: Present working directory
 
 ### service < service-name > stop
 >To stop a service (APACHE, FTP, etc) 
+
+### systemctl enable < service-name > 
+>To start a service on boot (APACHE, FTP, etc) 
+
+### systemctl disable < service-name > 
+>To stop a service on boot (APACHE, FTP, etc)
 
 ## NOTES:
 ### TTL - TIME TO LIVE
