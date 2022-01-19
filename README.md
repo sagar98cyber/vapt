@@ -85,7 +85,17 @@ Pwd: Present working directory
 ### gedit < filename >
 >To create a new file and open it in a Gedit Editor 
 
+### service < service-name > start
+>To start a service (APACHE, FTP, etc) 
+
+### service < service-name > stop
+>To stop a service (APACHE, FTP, etc) 
+
 ## NOTES:
 ### TTL - TIME TO LIVE
 >TTL for windows is 128 <br>
 >TTL for Linux is 64
+
+### SETUP A FTP SERVER 
+>Follow the given instructions to setup a FTP SERVER. [Click Here](https://www.youtube.com/watch?v=LlXQt-1MSw4)
+
