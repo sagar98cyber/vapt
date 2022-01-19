@@ -103,5 +103,6 @@ Pwd: Present working directory
 >TTL for Linux is 64
 
 ### SETUP A FTP SERVER 
->Follow the given instructions to setup a FTP SERVER. [Click Here](https://www.youtube.com/watch?v=LlXQt-1MSw4)
+>Follow the given instructions to setup a FTP SERVER. [Click Here](https://www.youtube.com/watch?v=LlXQt-1MSw4)<br>
+>(I created a USER: ftp with PASSWORD: ftp and that is the exact login I did at the end of 5 mins, basically login with ftp and ftp during the comman < ftp localhost > )[Click Here](https://github.com/sagar98cyber/vapt/blob/main/lastFiveMinsUserLogin.png)
 
