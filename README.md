@@ -98,7 +98,7 @@ Pwd: Present working directory
 >To stop a service on boot (APACHE, FTP, etc)
 
 ### apt install < package-name > 
->To install a package. Example: apt install python3-pip
+>To install a package.<br> Example: apt install python3-pip
 
 ### git clone < code-URL-from-GITHUB >
 [Reference](https://github.com/sagar98cyber/vapt/blob/installing-package-github/installing%20a%20package%20from%20github.png)
