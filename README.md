@@ -98,13 +98,13 @@ Pwd: Present working directory
 >To stop a service on boot (APACHE, FTP, etc)
 
 ### apt install < package-name > 
->To install a package.<br> Example: apt install python3-pip
+>To install a package. Example: apt install python3-pip
 
 ### git clone < code-URL-from-GITHUB >
 [Reference](https://github.com/sagar98cyber/vapt/blob/installing-package-github/installing%20a%20package%20from%20github.png)
 >Best practice is to go 'cd opt/' from root terminal and clone the tools or repositories from github ther. <br> 
 
->To clone a packet from github use the mentioned command. Example: git clone https://github.com/SecureAuthCorp/impacket.git <br>
+>To clone a packet from github use the mentioned command.<br> Example: git clone https://github.com/SecureAuthCorp/impacket.git <br>
 
 >cd into the intalled tool folder. In this instance 'cd impacket/'
 
