@@ -103,8 +103,11 @@ Pwd: Present working directory
 ### git clone < code-URL-from-GITHUB >
 [Reference](https://github.com/sagar98cyber/vapt/blob/installing-package-github/installing%20a%20package%20from%20github.png)
 >Best practice is to go 'cd opt/' from root terminal and clone the tools or repositories from github ther. <br> 
+
 >To clone a packet from github use the mentioned command. Example: git clone https://github.com/SecureAuthCorp/impacket.git <br>
+
 >cd into the intalled tool folder. In this instance 'cd impacket/'
+
 >To install the downloaded package use the 'pip install .'
 
 ## NOTES:
@@ -116,3 +119,6 @@ Pwd: Present working directory
 >Follow the given instructions to setup a FTP SERVER. [Click Here](https://www.youtube.com/watch?v=LlXQt-1MSw4)<br>
 >(I created a USER: ftp with PASSWORD: ftp and that is the exact login I did at the end of 5 mins, basically login with ftp and ftp during the comman < ftp localhost > )[Click Here](https://github.com/sagar98cyber/vapt/blob/main/lastFiveMinsUserLogin.png)
 
+### DELETING A DIRECTORY FROM OPT/ DIRECTORY
+>'rmdir < dir-name >' does not work in opt/ folder.<br>
+>therefore you need to use 'rm -rf < dir-name >' 
