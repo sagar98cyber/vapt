@@ -120,5 +120,5 @@ Pwd: Present working directory
 >(I created a USER: ftp with PASSWORD: ftp and that is the exact login I did at the end of 5 mins, basically login with ftp and ftp during the comman < ftp localhost > )[Click Here](https://github.com/sagar98cyber/vapt/blob/main/lastFiveMinsUserLogin.png)
 
 ### DELETING A DIRECTORY FROM OPT/ DIRECTORY
->'rmdir < dir-name >' does not work in opt/ folder.<br>
->therefore you need to use 'rm -rf < dir-name >' 
+><b>'rmdir < dir-name >'<b> does not work in opt/ folder.<br>
+>therefore you need to use <b>'rm -rf < dir-name >'<b> 
