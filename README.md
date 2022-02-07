@@ -110,6 +110,10 @@ Pwd: Present working directory
 
 >To install the downloaded package use the <b>'pip install .'</b>
 
+## BASH SCRIPTING
+> There is alot that we can do when we talk about bash scripting, go through this [readme file](https://github.com/sagar98cyber/bash-scripting-cheatsheet) to get a clear grasp on the bash scripting or use it as a cheatsheet to during your scripting.<br>
+
+
 ## NOTES:
 ### TTL - TIME TO LIVE
 >TTL for windows is 128 <br>
