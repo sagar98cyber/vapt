@@ -67,7 +67,7 @@ Pwd: Present working directory
 ### route
 > this commands shows the routing table on the device
 
-## sudo dhclient eth0
+### sudo dhclient eth0
 > dynamically receive an IP ADDRESS from the interface connected
 
 ## FILE COMMANDS
